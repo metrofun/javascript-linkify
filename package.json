@@ -1,0 +1,9 @@
+{
+    "name": "javascript-linkify",
+    "description": "Make links clickable",
+    "version": "1.0.0",
+    "repository": {
+        "type": "git",
+        "url":  "https://github.com/metrofun/javascript-linkify.git"
+    }
+}
